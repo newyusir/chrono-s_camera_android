@@ -1,2 +1,2 @@
-# chrono-s_camera_android
+# Chrono's Camera android
 android port of chrono's camera
